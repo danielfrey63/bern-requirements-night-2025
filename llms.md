@@ -2,10 +2,9 @@
 
 ## Konfigurationsprofil
 
-| Schlüssel   | Wert                                                                          |
-| ------------ | ----------------------------------------------------------------------------- |
-| API Key      | `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` |
-| API Provider | `OpenRouter`                                                                |
+| Schlüssel   | Wert           |
+| ------------ | -------------- |
+| API Provider | `OpenRouter` |
 
 ## Auswahl an gratis Modelle:
 
